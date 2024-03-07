@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: tweledata
+      Authorization: apikey 336738e5b75a4aab976ecd35c9cb3804

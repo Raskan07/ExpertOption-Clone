@@ -1,0 +1,3 @@
+schema @sdl(files: ["curl/index.graphql", "TimeSeries/index.graphql"]) {
+  query: Query
+}

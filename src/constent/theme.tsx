@@ -1,0 +1,20 @@
+export default{
+    bg:"#1F2A40",
+    font_primary :"#FFF",
+    container_bg:"#2F374E80",
+    container_bg_secondary:"#2C3753", 
+    defult_bg :"#171B26",
+    font_secondary:"#8E9AB4",
+    font_unique:"#B47249",
+    bar:"#2E96EF",
+    font_choose:"#FD9E58",
+    container_bg_territory:"#425178",
+    green:"#1FB47E",
+    dark:"#17212D",
+    extend:"#246BB2",
+    danger:"#FE3C30",
+    font_warning:"#CB981E",
+    bg_warning:"#CB981E40",
+    customBtn:"#2E96EF",
+    faceBook:"#1B62FC"
+}
